@@ -19,6 +19,7 @@ p {
 img {
     width: 100%;
 }
+
 .header-section {
     height: 600px;
     background-image: url(images/header-bg.png);
@@ -71,6 +72,7 @@ img {
 #first-work {
     padding-left: 7.5%;
 }
+
 .special-show-off {
     padding-left: 2%;
 }
@@ -79,4 +81,48 @@ img {
     padding-top: 50px;
     width: 27%;
     float: left;
+}
+
+.client-section {
+    height: 600px;
+    text-align: center;
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#big-text {
+    color: black;
+}
+
+.client-text-section {
+    width: 33.33%;
+    margin: 0 auto;
+}
+
+#contact-info {
+    width: 55%;
+    border-radius: 10px;
+    background-color: #EC4C7A; 
+    margin: 0 auto;
+    padding: 10px;
+}
+
+#contact-info p {
+    color: white;
+    padding-bottom: 0px;
+}
+
+#contact-info a {
+    text-decoration: none;
+}
+
+#big-white-text {
+    color: white;
+    font-size: 25px;
+}
+
+footer p{
+    text-align: center;
+    font-size: 15px;
 }
